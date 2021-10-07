@@ -1,0 +1,21 @@
+h1,
+h2{
+    text-align: center;
+    background-color: rgb(191,187,174);
+    color: white;
+}
+h1{
+    font-size:34px;
+}
+
+h2{
+    font-size: 28px;
+}
+img{
+    height: auto;
+    width: 600px;
+}
+p{
+    text-align: center;
+    font-size: 18px;
+}
